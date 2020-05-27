@@ -22,3 +22,8 @@ The repository contains two jupyter notebooks which build two different kinds of
 2. cnn_fashion_mnist.ipynb contains code for a Convolutional Neural Network with the following architecture
 
 ![download](https://user-images.githubusercontent.com/44796478/83008073-3bc81a00-a032-11ea-94ca-3ef1c4548bf8.png)
+
+## Results
+Simple Neural Network achieves train set accuracy of 0.9091 and test set accuracy of 0.8722
+
+Convolutional Neural Network achieves train set accuracy of 0.9760 and test set accuracy of 0.9214
