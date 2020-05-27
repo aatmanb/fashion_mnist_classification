@@ -5,9 +5,11 @@
 2. tensorflow
 3. tensorflow_datasets (required only if you want to use the dataset from tensorflow)
 4. math
+5. matplotlib (to visualize the dataset)
 
 ## Fashion MNIST Dataset
 split: 60000 train and 10000 test
+
 Number of classes = 10
 
 ## Execution
